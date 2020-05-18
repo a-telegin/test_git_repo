@@ -8,6 +8,7 @@ class Calculator
         int Sub (double, double);
         int Mul (double, double);
         double Percent (double, double);
+	double Div (double, double);
 };
 
 #endif//CALCULATOR_H
